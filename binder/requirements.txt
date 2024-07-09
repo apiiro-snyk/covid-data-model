@@ -43,3 +43,4 @@ more_itertools==8.3.0
 # If you make changes in covid-data-public locally that you want to use,
 # comment the line above and uncomment the line below.
 # -e ../covid-data-public
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
