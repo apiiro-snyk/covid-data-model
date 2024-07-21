@@ -1,4 +1,4 @@
-sentry-sdk==0.18.0
+sentry-sdk==2.8.0
 pydantic==1.6.1
 python-dotenv==0.14.0
 requests
