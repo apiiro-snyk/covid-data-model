@@ -18,7 +18,7 @@ pyshp==2.1.0
 pymc3==3.8
 requests==2.23.0
 jupyter==1.0.0
-jupyterlab==2.1.4
+jupyterlab==3.6.8
 simplejson==3.17.0
 ujson==2.0.3
 seaborn==0.10.0
