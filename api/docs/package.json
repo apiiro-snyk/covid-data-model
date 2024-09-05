@@ -21,7 +21,7 @@
     "react": "^16.8.4",
     "react-dom": "^16.13.1",
     "redoc": "^2.0.0-rc.48",
-    "styled-components": "^5.2.0"
+    "styled-components": "^6.1.0"
   },
   "browserslist": {
     "production": [
